@@ -49,6 +49,9 @@
 
 <br>
 
+<img align="center" src="https://github.com/tushar-maurya/tushar-maurya/blob/output/github-contribution-grid-snake.gif" alt="snake" width="100%"/>
+
+
 ✍️ Random Dev Quote
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
