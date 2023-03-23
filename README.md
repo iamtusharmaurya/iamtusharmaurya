@@ -1,6 +1,6 @@
 <a href="#"><img src="https://i.postimg.cc/XYb8dtHt/TUSHAR-2.gif" width="100%" height="auto"/></a>
 <h1 align="center">Hi 👋, I'm Tushar Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--<h3 align="center">A passionate frontend developer from India</h3> -->
 <img align="right" alt="Coding" width="450" src="web.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-maurya" /> </p>
