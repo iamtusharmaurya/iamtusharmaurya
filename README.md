@@ -1,7 +1,7 @@
-[![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://rishavchanda.io)
+<a href="https://discord.gg/shiba"><img src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67" width="100%" height="auto"/></a>
 <h1 align="center">Hi 👋, I'm Tushar Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align="right" alt="Coding" width="500" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-maurya" /> </p>
 
@@ -35,7 +35,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="40%" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg"/>
 
   <a href="https://github.com/tushar-maurya"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tushar-maurya&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
