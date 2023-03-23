@@ -11,16 +11,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=400%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm+in+Java;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=tushar-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://img.shields.io/github/followers/tushar-maurya?label=Followers&style=social" alt="followers-count"> 
+</p>
 
   
  <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 <img align="right" alt="Coding" width="450" src="web.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-maurya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
