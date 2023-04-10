@@ -49,10 +49,27 @@
 - ⚡ Fun fact **None**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iamtusharmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamtusharmaurya" height="30" width="40" /></a>
-<a href="https://instagram.com/iamtusharmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamtusharmaurya" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/iamtusharmaurya">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ </a> 
+<a href="mailto:tusharmaurya1007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
+<a href="https://twitter.com/vrukshali26">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+</a>
+<!--<a href="https://dev.to/vrukshali26">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a> -->
+<!-- <a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a> -->
+<!--<a href="https://www.buymeacoffee.com/vrukshali">
+	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>-->
+<br>
+
+
 
 
 ## 🥇 Technical Skills:
@@ -90,10 +107,18 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="40%" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg"/>
+<img align="right" width="28%" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg"/>
 
-  <a href="https://github.com/tushar-maurya"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tushar-maurya&theme=radical&title_color=ff3068"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamtusharmaurya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamtusharmaurya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamtusharmaurya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamtusharmaurya&theme=tokyonight)  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamtusharmaurya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=iamtusharmaurya&theme=tokyonight) -->
+
+
+ 
 
 ## 📘 My top open source projects
 
