@@ -107,7 +107,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="28%" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg"/>
+<img align="right" width="20%" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg"/>
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamtusharmaurya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamtusharmaurya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
