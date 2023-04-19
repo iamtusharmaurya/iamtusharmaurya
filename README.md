@@ -25,7 +25,7 @@
 
   
  <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
-<img align="right" alt="Coding" width="360" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg">
+<img align="right" alt="Coding" width="340" src="https://i.postimg.cc/Gp9WCJhz/uriel-soberanes-Mx-Vk-WPi-JALs-unsplash.jpg">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
