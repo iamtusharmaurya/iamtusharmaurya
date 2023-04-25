@@ -83,7 +83,6 @@
 <br/>
 <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   
 </div>
  <br/>
