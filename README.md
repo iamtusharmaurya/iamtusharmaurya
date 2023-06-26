@@ -101,7 +101,8 @@
   </div>
 
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamtusharmaurya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔥 Github Stats
 
