@@ -1,4 +1,4 @@
-<a href="#"><img src="https://i.postimg.cc/xdsCxvry/Gray-And-Black-Simple-Personal-Linked-In-Banner.jpg" width="100%" height="auto"/></a>
+<a href="#"><img src="https://i.postimg.cc/QxVq0bRS/Gray-123456789.jpg" width="100%" height="auto"/></a>
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/iamtusharmaurya/">Tushar Maurya 💻</a>!
 </h1> 
